@@ -52,3 +52,11 @@ Event Management System/
     ├── EventDAO.java
     ├── ParticipantDAO.java
     └── RegistrationDAO.java
+
+## 👨‍💻 Author
+
+**Ankit Kumar**
+
+BCA Student | AI & Machine Learning | Cybersecurity Enthusiast
+
+If you found this project helpful, don't forget to ⭐ star the repository!
